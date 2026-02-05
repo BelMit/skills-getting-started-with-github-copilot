@@ -144,41 +144,4 @@ footer {
   color: #666;
 }
 
-.participants-section {
-  margin-top: 12px;
-  padding: 10px;
-  background: #eef3fb;
-  border-radius: 4px;
-  border: 1px solid #dde3ef;
-}
 
-.participants-section strong {
-  color: #1a237e;
-  font-size: 15px;
-}
-
-.participants-list {
-  margin: 8px 0 0 0;
-  padding-left: 20px;
-}
-
-.participants-list li {
-  margin-bottom: 4px;
-  font-size: 14px;
-  color: #3949ab;
-  list-style-type: disc;
-}
-
-.participant-email {
-  background: #e3eafc;
-  padding: 2px 6px;
-  border-radius: 3px;
-  font-family: monospace;
-  font-size: 13px;
-}
-
-.no-participants {
-  color: #888;
-  font-size: 14px;
-  margin-left: 6px;
-}
